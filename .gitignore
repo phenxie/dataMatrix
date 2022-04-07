@@ -1,0 +1,3 @@
+# Project exclude paths
+/hadoop-common/target/
+/hbase-common/target/
